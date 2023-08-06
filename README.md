@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=&color=gradient&height=200&section=header&text=Engineer%20SYA&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=Engineer%20SYA&fontSize=45)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=syasyass&show_icons=true&theme=radical)](https://github.com/syasyass)
 
