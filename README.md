@@ -21,7 +21,7 @@
 
 <p align="center"> 
   <samp>
-    「 꾸준히 효율적으로 성장하는 꼼꼼하고 영민한 개발자입니다.」
+    「 꾸준히 성장하는 꼼꼼하고 영민한 개발자입니다.」
     <br>
     <br>
   </samp>
@@ -34,7 +34,7 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  👩‍🦰 &emsp; 이력서:  <a href="https://nutritious-viscose-c44.notion.site/88cc084443144c4b89b9ceec308bafdf?pvs=4" target="blank">
+  👩‍🦰 &emsp; 이력서:  <a href="https://nutritious-viscose-c44.notion.site/88cc084443144c4b89b9ceec308bafdf?pvs=4" target="_blank">
   <img src="https://img.shields.io/badge/Notion Resume-0077B5?style=for-the-badge&logo=medium&logoColor=white" alt="이력서 바로가기" />
  </a><br/><br/>
   📒 &emsp; 포트폴리오:   <a href="https://www.notion.so/88cc084443144c4b89b9ceec308bafdf?pvs=4#0e1c4a4cf0514b8f827939583189c103" target="_blank">
