@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/PDF Portfolio-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> <br/><br/>
  📧 &emsp; Email:  best.engineer.sya@gmail.com<br/><br/>
- 💬 &emsp; Blog:  https://cecilprogramming.blogspot.com/
+ 💬 &emsp; Blog:  https://pumpb.tistory.com/, https://cecilprogramming.blogspot.com/
 
 </p>
 
@@ -51,6 +51,7 @@
 
 ![Java](https://img.shields.io/badge/Java-007acc?style=for-the-badge&labelColor=black&logo=java&logoColor=007acc)
 ![Spring](https://img.shields.io/badge/Spring-4EA94B?style=for-the-badge&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-F05032?style=for-the-badge&logo=JPA&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-3C873A?style=for-the-badge&labelColor=black&logo=mysql&logoColor=3C873A)
 ![MyBatis](https://img.shields.io/badge/MyBatis-61DBFB?style=for-the-badge&labelColor=black&logo=mybatis&logoColor=61DBFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,6 +59,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![jQuery](https://img.shields.io/badge/jQuery-20232A?style=for-the-badge&logo=jquery&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-F0DB4F?style=for-the-badge&labelColor=black&logo=AWS&logoColor=F0DB4F)
 ![Tomcat](https://img.shields.io/badge/Tomcat-000000?style=for-the-badge&logo=tomcat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-CC6699?style=for-the-badge&logo=ubuntu&logoColor=white)
 
@@ -76,6 +78,8 @@
 
 ## Domain knowledge
 ![Project Management](https://img.shields.io/badge/Project_Management-FF4154?style=for-the-badge&logo=projectmanagement%20query&logoColor=white)
+![English](https://img.shields.io/badge/English-F0DB4F?style=for-the-badge&labelColor=black&logo=English&logoColor=F0DB4F)
+![Japanese](https://img.shields.io/badge/Japanese-092749?style=for-the-badge&logo=Japanese&logoColor=06B6D4&labelColor=000000)
 
 <br/>
 <!--
